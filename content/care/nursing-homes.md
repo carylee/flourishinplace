@@ -1,4 +1,6 @@
-# Nursing Home
+---
+title: Nursing Homes
+---
 
 ## What is a Nursing Home?
 

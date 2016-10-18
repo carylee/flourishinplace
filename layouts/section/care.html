@@ -1,1 +1,20 @@
-<h1>Care!</h1>
+{{ partial "header" . }}
+<div id="pagecontent" class="container">
+  <div id="page-wrapper" class="col-sm-12">
+    {{ partial "sidebar" . }}
+    <div id="article-wrapper" class="col-sm-9">
+      {{ partial "banner" . }}
+      <div id="main-article" class="clearfix">
+        <h1>Care Options</h1>
+        <br/>
+            <ul>
+            {{ range .Data.Pages }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+      </div>
+      <div class="col-sm-12 clearfix testi-bottom"></div>
+    </div>
+  </div>
+</div>
+{{ partial "footer" . }}

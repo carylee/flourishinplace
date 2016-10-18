@@ -1,9 +1,6 @@
 ---
-layout: page
-image: precontent-1.jpg
-testimonial: paper-4.jpg
+title: Contact Us
 ---
-# Contact Us
 Flourish in Place Home Care Solutions - Corporate Headquarters   
 Address: 924 N. Magnolia Ave., Suite 202, Orlando, FL 32803
 

@@ -1,9 +1,6 @@
 ---
-image: precontent-1.jpg
-testimonial: paper-4.jpg
+title: Alzheimer's Care
 ---
-# Alzheimer's Care
-
 ## What is Alzheimer's Care?
 
 Over 4.5 million people in the United States and 26 million worldwide suffer from Alzheimer's disease. Alzheimer's disease is the most common type of dementia. The disease destroys brain cells and symptoms can include confusion, anger, mood swings, language breakdown and long-term memory loss. Caring for a person with Alzheimer's disease involves specialized services that differ from other types of senior housing.

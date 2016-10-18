@@ -1,10 +1,6 @@
 ---
-layout: page
-image: precontent-1.jpg
-testimonial: paper-4.jpg
+title: About Us
 ---
-# About Us
-
 We are committed to providing high quality, client-centered and affordable Home Care services to our clients to assist them to lead dignified and independent lives in the comfort and safety of their own homes. Their individual needs are carefully assessed, understood and met through the selective assignment of qualified, trustworthy and compassionate personnel.
 
 ## Our Mission

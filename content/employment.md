@@ -1,4 +1,6 @@
-# Employment Opportunities
+---
+title: Employment Opportunities
+---
 
 Do you want to become a Personal Attendant?
 

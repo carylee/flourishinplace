@@ -1,0 +1,8 @@
+<div id="left-menu" class="col-sm-3">
+  {{ partial "vertical-nav" . }}
+  <div class="testi-side">
+    {{ range first 1 (shuffle (readDir "/static/images/testimonials")) }}
+      <p><img src="/images/testimonials/{{ .Name }}" class="img-responsive" alt="Tesimonials"></p>
+    {{ end }}
+  </div>
+</div>

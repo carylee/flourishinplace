@@ -1,9 +1,6 @@
 ---
-layout: page
-image: precontent-1.jpg
-testimonial: paper-4.jpg
+title: We Provide Home Care
 ---
-# We Provide Home Care
 ## What is Home Care?
 
 More than 7.6 million Americans receive home care, according to the U.S. Census Bureau. The number is much greater when you consider that it does not include informal care which is care given by a friend or family member. Home care is generally defined as non-medical support services delivered at the home of the senior. The aim of home care is to allow seniors to remain at home longer rather than enter an assisted living community, nursing home or other type of senior care. Home care may be appropriate if a senior prefers to stay at home but needs assistance with activities of daily living.
