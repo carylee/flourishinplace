@@ -9,12 +9,12 @@ We are committed to providing high quality home care solutions to help our clien
 
 Our mission and vision will be achieved through the application of our core values, which include:
 
-**C**omfort - caring for our clients' health, safety, well-being and quality of life, while honoring their personal choices; 
+**C**omfort - caring for our clients' health, safety, well-being and quality of life, while honoring their personal choices;  
 **A**ffection- showing our clients abundant love, dignity, compassion and empathy;  
 **R**espect- respecting all cultures, genders, races, religions, ethnicities; sexual orientations, ages, and disabilities;  
 **I**ntegrity- establishing trust through open, honest, and dignified communications with clients and their families, while maintaining private client information in confidence;  
 **N**urture- helping each of our clients achieve their optimum individual level of mental, physical and social activity so they can *flourish* in place;  
-**G**enerosity- displaying generosity of spirit through a good-hearted, selfless, and caring staff focused on serving clients and their families. 
+**G**enerosity- displaying generosity of spirit through a good-hearted, selfless, and caring staff focused on serving clients and their families.   
 
 ## Our Services
 
