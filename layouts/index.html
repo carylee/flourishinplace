@@ -1,57 +1,18 @@
 {{ partial "header" . }}
     <div id="homecontent" class="container">
-      <div id="pre-content"  class="col-md-12">
-
-        
-        <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12 home-slider">
-          <div class="cycle-slideshow">
-              <img class="img-responsive" src="/images/slide/slider-1.png" alt="">
-              <img class="img-responsive" src="/images/slide/slider-2.png" alt="">
-              <img class="img-responsive" src="/images/slide/slider-3.png" alt="">
-              <img class="img-responsive" src="/images/slide/slider-4.png" alt="">
-            </div>
-        </div>
-        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 blue-box">
-          <h1>We're committed to your care.</h1>
-          <h3>Learn how we earned our reputation for quality care in the health care <br>industry.</h3>
-        </div>                
-      </div>
-
+      {{ partial "homepage-banner" . }}
       <div class="col-sm-12">
         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-            <p>
-            Flourish in Place Home Care Solutions, Inc provides professional, affordable, and caring in home living assistance for seniors in Central Florida. The senior care services we provide: </p>
-            <ul class="homelist">
-              <li>Caring Companionship, Bed/Wheel Chair Transfers</li>
-              <li>Bathing, Dressing & Grooming, Incontinence Care, Pet Care</li>
-              <li>Light Housekeeping, Laundry & Linen</li>
-              <li>Alzheimer's & Dementia Care</li>
-              <li>Meal Preparation, Medication Reminders, Running Errands</li>
-            </ul>       
-            <p>&nbsp;</p>
-            <p><strong>Care Consultation -</strong><strong> </strong>We  help families by taking time to understand their loved one's needs and  then customize a care solution for their budget and care requirements.  Each family and situation is unique and we understand that home care  services may not be the best option for certain situations. We take an  objective view of each situation and consult the family on all possible  care options that would meet their needs. Options include assisted  living facilities, board and care homes, skilled nursing care, etc. Call  us today to schedule your free in-home care assessment or just talk to  one of our certified eldercare advisors. Ask us about care funding  options!</p>
-            <p>
-            <strong>Our Service Area</strong> - Serving Central Florida including all of Orange County, the cities of Orlando, Winter Park, Maitland, and Casselberry, and the communities of Baldwin Park, College Park, East Orlando, Lake Nona, and Celebration.            </p>
-            <p>
-             <strong>Our Caregivers</strong> - are totally committed, highly qualified, and carefully selected individuals who are thoroughly screened, background checked, bonded, and insured. Our typical caregiver profile is either a Certified Nurse Assistant (C.N.A) or Certified Home Health Aide (C.H.H.A) with five years work experience as a              caregiver.</p>
-            <p><strong>Veterans and their Surviving Spouses</strong><strong> </strong>-  can receive up to 25 hours of free care per week paid for via a little  understood VA Aid &amp; Attendance Pension Benefit. Our team of  accredited VA agents can assist you in applying for this benefit and  successfully getting approved. This benefit can provide funds for care  for the rest of your life. Contact us today to find out more information  on how we can help you pay for your care services!</p>
-  <div id="home-banner">   
-            	<div class="leftside">
-           		  <p>
-	            		<a href="/contact" title="Contact Us" class="btn btn-md btn-warning">CONTACT US <i class="glyphicon glyphicon-play-circle"></i></a>
-	            	</p>
-            	</div>         
-            	<div class="rightside"></div>
-            </div>
-            <div class="clear">&nbsp;</div>
-            
-            </div>
+          {{ range where .Data.Pages "Title" "Home" }}
+            {{ .Content }}
+          {{ end }}
+        </div>
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
           <p class="center-block">
           	<a href="/employment"><img src="/images/pic_03.jpg" class="img-responsive" alt="Employment Opportunities"></a>
           </p>
           <p>&nbsp;</p>
-          <p><img src="/images/paper-7.jpg" class="img-responsive" alt="Testimonials"></p>
+          <p><img src="/images/testimonials/paper-7.jpg" class="img-responsive" alt="Testimonials"></p>
         </div>
 
       </div>
