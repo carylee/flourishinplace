@@ -1,30 +1,30 @@
 ---
 title: About Us
 ---
-We are committed to providing high quality, client-centered and affordable Home Care services to our clients to assist them to lead dignified and independent lives in the comfort and safety of their own homes. Their individual needs are carefully assessed, understood and met through the selective assignment of qualified, trustworthy and compassionate personnel.
+We are committed to providing high quality home care solutions to help our clients thrive and *flourish* while leading dignified and independent lives in the comfort and safety of their own homes. Their unique needs are carefully assessed, understood and met through the selective assignment of qualified, trustworthy and compassionate personnel.
 
 ## Our Mission
 
-"To enable seniors to live healthily and with dignity in their chosen place of residence."
+"To provide loving, compassionate and inspiring non-medical in-home care for seniors and disabled people so they can thrive and *flourish* as they age in place."
 
 Our mission and vision will be achieved through the application of our core values, which include:
 
-Comfort - keeping our client's health, safety, quality of life and well-being are central in the design and delivery of services  
-Affection- treating and interacting our clients with love, dignity, compassion and empathy;  
-Respect- showing respect for all cultures, religions, ethnicities; sexual orientation, ages, gender and disabilities;  
-Integrity- treating our clients with honesty and integrity while recognizing and maintaining confidentiality of client information;  
-Nurture- nurturing our clients for their optimum independence, security and privacy;  
-Generosity- provide our clients a selfless, good-hearted staff, who are generous with their care and compassion.
+**C**omfort - caring for our clients' health, safety, well-being and quality of life, while honoring their personal choices; 
+**A**ffection- showing our clients abundant love, dignity, compassion and empathy;  
+**R**espect- respecting all cultures, genders, races, religions, ethnicities; sexual orientations, ages, and disabilities;  
+**I**ntegrity- establishing trust through open, honest, and dignified communications with clients and their families, while maintaining private client information in confidence;  
+**N**urture- helping each of our clients achieve their optimum individual level of mental, physical and social activity so they can *flourish* in place;  
+**G**enerosity- displaying generosity of spirit through a good-hearted, selfless, and caring staff focused on serving clients and their families. 
 
 ## Our Services
 
-We provide professional personal care attendants to assist seniors with activities of daily living so they can remain in the comfort of their own homes.
+We provide professional home helpers and companions to assist seniors and people with disabilities so they can flourish in the comfort of their own homes.
 
-We are committed in:
+We are committed to:
 
-* recruiting, training and retaining competent staff
+* recruiting, training and retaining competent staff and compensating them fairly
 * valuing, supporting, recognizing and appreciating our staff who are our greatest asset
 * providing a work environment that encourages personal enjoyment and enhances job satisfaction and performance through recognition and reward
-* developing and maintaining positive relationships with the community, including local Home Care and Health Care personnel/organizations
-* conducting our business in an accountable and responsible manner
-* adhering to the professional code of ethics of the Home Care industry and applying continuous quality improvement measures throughout our Agency
+* developing and maintaining positive relationships with the community, including local home care and health care organizations and their personnel
+* conducting our business in a responsible and accountable manner
+* adhering to the professional code of ethics of the home care industry and applying continuous quality improvement measures 
