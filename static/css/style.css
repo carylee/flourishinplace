@@ -371,6 +371,7 @@ padding-right:0;
 padding-right:0;
 padding-left:0;
 }
+
 #main-article{
 margin: 20px 0;
 padding: 0 75px;
@@ -414,6 +415,7 @@ footer .copyright{
 font-size:12px;
 text-align:center;
 }
+
 @media screen and (max-width: 800px) {
 
   #pretext-header {
@@ -462,6 +464,10 @@ text-align:center;
   footer {
     padding: 15px 10px;
   }
+
+  #main-article{
+    padding: 0 55px;
+  }
 }
 
 @media screen and (max-width: 720px) {
@@ -486,6 +492,10 @@ text-align:center;
 
   header .text-box{
     display:none;
+  }
+
+  #main-article{
+    padding: 0 35px;
   }
 }
 
@@ -558,6 +568,9 @@ text-align:center;
   display:block;
   }
 
+  #main-article{
+    padding: 0 35px;
+  }
 }
 
 @media screen and (max-width: 320px) {
@@ -644,6 +657,9 @@ text-align:center;
   text-align:justify;
   }
 
+  #main-article{
+    padding: 0 35px;
+  }
 }
 
 /*-- Cary's work --*/
