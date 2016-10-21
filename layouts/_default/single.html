@@ -1,15 +1,12 @@
 {{ partial "header" . }}
 <div id="pagecontent" class="container">
   <div id="page-wrapper" class="col-sm-12">
-    {{ partial "sidebar" . }}
-    <div id="article-wrapper" class="col-sm-9">
-      {{ partial "banner" . }}
-      <div id="main-article" class="clearfix">
-        <h1>{{ .Title }}</h1>
-        {{ .Content }}
-      </div>
-      <div class="col-sm-12 clearfix testi-bottom"></div>
+    {{ partial "banner" . }}
+    <div id="main-article" class="clearfix">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
     </div>
+    <div class="col-sm-12 clearfix testi-bottom"></div>
   </div>
 </div>
 {{ partial "footer" . }}
