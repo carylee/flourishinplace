@@ -1,5 +1,9 @@
 ---
-title: We Provide Home Care
+title: Our Services
+menu:
+  main:
+    name: Our Services
+    weight: -100
 ---
 ## What is Home Care?
 

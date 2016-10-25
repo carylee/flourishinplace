@@ -1,5 +1,8 @@
 ---
 title: Residential Care Homes
+menu:
+  main:
+    parent: Care Options
 ---
 ## What are Residential Care Homes?
 

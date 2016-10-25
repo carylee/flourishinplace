@@ -1,5 +1,8 @@
 ---
 title: Assisted Living
+menu:
+  main:
+    parent: Care Options
 ---
 ## What is Assisted Living?
 

@@ -1,5 +1,8 @@
 ---
 title: Nursing Homes
+menu:
+  main:
+    parent: Care Options
 ---
 
 ## What is a Nursing Home?

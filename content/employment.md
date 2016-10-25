@@ -1,5 +1,9 @@
 ---
 title: Employment Opportunities
+menu:
+  main:
+    weight: 400
+    name: Employment
 ---
 
 Do you want to become a Personal Attendant?

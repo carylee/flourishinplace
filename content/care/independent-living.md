@@ -1,5 +1,8 @@
 ---
 title: Retirement / Independent Living Homes
+menu:
+  main:
+    parent: Care Options
 ---
 ## What are Retirement/Independent Living Communities?
 

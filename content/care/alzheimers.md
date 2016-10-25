@@ -1,5 +1,8 @@
 ---
 title: Alzheimer's Care
+menu:
+  main:
+    parent: Care Options
 ---
 ## What is Alzheimer's Care?
 
