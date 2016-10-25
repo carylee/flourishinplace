@@ -23,9 +23,10 @@
     <title>Flourish in Place Home Care Solutions | Senior Home Care</title>
 
     <!-- Bootstrap -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="/css/style.css" rel="stylesheet">
 
+    {{ template "_internal/google_analytics_async.html" . }}
     <link href='http://fonts.googleapis.com/css?family=Duru+Sans' rel='stylesheet' type='text/css'>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -37,26 +38,26 @@
   <body>
     <header>
       <div id="header-box" class="container">
-        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
-          <div id="imglogo">
-            <a href="/"><img src="/images/logo.png" class="img-responsive" alt="Flourish in Place Home Care Solutions"></a>
-          </div>
+        <div id="imglogo" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <a href="/"><img src="/images/logo.png" class="img-responsive" alt="Flourish in Place Home Care Solutions"></a>
         </div>
-        <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 text-box">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-box">
           <div id="pretext-header" class="col-sm-12"></div>
-          <div id="text-header" class="col-sm-12">            
+          <div id="text-header">            
             <div class="big-header">Innovative and Inspired In-Home Care</div> 
             <div class="small-header">Independence for the ones you love</div>
           </div>
-          <div id="top-menu" class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+          <!--<div id="top-menu" class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
    
 
+          </div>-->
+          <div id="call-header">
+            <div class="call-us">Call us today!</div>
+            <div class="numbers">
+              <div>Local: (407) 845-9797</div>
+              <div>Toll Free: (844) 822-1366</div>
+            </div>
           </div>
-          <div id="call-header" class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            Call us today! 
-            <br>
-            <strong>Local: (407) 845-9797<br>
-            Toll Free: (844) 822-1366</strong></div>
         </div>
       </div>
       {{ partial "nav" . }}
