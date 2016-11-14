@@ -4,6 +4,7 @@ menu:
   main:
     parent: Care Options
 ---
+
 ## What are Retirement/Independent Living Communities?
 
 Retirement communities or independent living communities cater to seniors who are very independent with few medical problems. Residents live in fully equipped private apartments available in a variety of sizes from studios to large two bedrooms. Fine dining services are offered with custom-designed meal packages.

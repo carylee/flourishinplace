@@ -4,6 +4,7 @@ menu:
   main:
     parent: Care Options
 ---
+
 ## What are Residential Care Homes?
 
 Residential care homes are known by different names depending on where you live. In some areas they are called adult family homes, in other areas they may be referred to as personal care homes, adult foster homes, group homes, or board and care homes. Typically they all have the same things in common: they provide care for seniors in a homelike setting that's very much like a family.

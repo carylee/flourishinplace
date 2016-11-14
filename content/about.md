@@ -4,6 +4,7 @@ menu:
   main:
     weight: -200
 ---
+
 We are committed to providing high quality home care solutions to help our clients thrive and *flourish* while leading dignified and independent lives in the comfort and safety of their own homes. Their unique needs are carefully assessed, understood and met through the selective assignment of qualified, trustworthy and compassionate personnel.
 
 ## Our Mission
