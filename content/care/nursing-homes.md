@@ -15,6 +15,8 @@ Residents of nursing homes generally have high care needs and complex medical co
 
 The average cost of care for nursing home care ranges between $6000 and $10,000 per month. Cost is determined by the level of care needed, the setting where the care is provided, and the geographic location. Due to the high cost of care, many residents use supplemental funding from the government in the form of Medicare and/or Medicaid.
 
-* Also Known As: Convalescent Care; Nursing Center; Long Term Care Facility
-* Payment Sources: Private Pay; Medicare; Medicaid
+* Also Known As: Convalescent Care, Nursing Center, Long Term Care Facility
+
+* Payment Sources: Private Pay, Medicare, Medicaid
+
 * Price Range: $6000 to $10,000 per month
