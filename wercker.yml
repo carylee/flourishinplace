@@ -7,6 +7,6 @@ deploy:
     - install-packages:
         packages: curl
     - duleorlovic/ftp-deploy:
-        destination: ftp://flourishinplace.com/
+        destination: ftp://ftp.flourishinplace.com/
         username: cary@flourishinplace.com
         password: $FTP_PASSWORD

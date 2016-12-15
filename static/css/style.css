@@ -710,3 +710,10 @@ text-align:center;
   background-color: #f8f8f8;
 }
 
+.cycle-slideshow img {
+  display: none;
+}
+
+.cycle-slideshow img.first {
+  display: block;
+}
