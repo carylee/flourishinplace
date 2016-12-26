@@ -4,7 +4,6 @@ menu:
   main:
     name: Our Services
     weight: -100
-published: true
 ---
 
 ## What is Home Care?
