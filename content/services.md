@@ -4,6 +4,7 @@ menu:
   main:
     name: Our Services
     weight: -100
+published: true
 ---
 
 ## What is Home Care?
@@ -14,7 +15,7 @@ Activities of daily living include bathing, dressing, and meal preparation but m
 
 Need home care? We can provide professional and compassionate homemaker and companion care services in the comfort of your own home. Our care attendants are English speaking, reliable, fully screened, bonded, employees of our agency with both liability and workers compensation insurance coverage. Contact us to discuss our variety of home care options for every need and budget. There's no place like home!
 
-Three essential questions to ask - to ensure the company you choose has a strong set of core values
+Three essential questions to ask - to ensure the company you choose has a strong set of core values:
 
 1. Communication - Will I be able to easily communicate with the personal attendant and have continued access to my case manager? This is the core of our approach. We believe that you should never feel there is a lack of control or communication with your personal attendant. For this reason, you are assigned a case manager who is always available, and we provide a "family portal" where family members who have your authorization can communicate directly with your personal attendant through a computer or mobile device.
 2. Integrity - Has a sense of trust been established? We believe this is the key to a comfortable relationship and the well being of the client. That's why we carefully screen all of our personal attendants who are members of a professional home care organization. They must also provide a written contract.
