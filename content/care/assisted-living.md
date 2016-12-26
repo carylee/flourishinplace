@@ -1,6 +1,10 @@
 ---
 title: Assisted Living
+menu:
+  main:
+    parent: Care Options
 ---
+
 ## What is Assisted Living?
 
 Assisted living communities or assisted living facilities (ALFs) help promote health, safety and well-being among the senior residents that live there. Assisted living was developed as a type of senior housing to provide housing, health care and personal care services to seniors in need of assistance with activities of daily living in a more independent environment than a traditional nursing home.
