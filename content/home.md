@@ -4,6 +4,8 @@ title: Home
 
 Flourish in Place, LLC provides professional and compassionate home helpers and companions who can:
 
+{{< youtube saO-M_73Fhc >}}
+
 * Foster a safe, healthy and clean home environment
 * Perform light housekeeping, such as tidying the home and doing laundry
 * Buy groceries and prepare and serve meals for clients, in keeping with any dietary restrictions
