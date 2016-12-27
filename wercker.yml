@@ -6,7 +6,8 @@ deploy:
   steps:
     - install-packages:
         packages: curl
-    - duleorlovic/ftp-deploy:
+    - mannau/ftp-deploy:
         destination: ftp://ftp.flourishinplace.com/
         username: cary@flourishinplace.com
         password: $FTP_PASSWORD
+        subfolder: public
