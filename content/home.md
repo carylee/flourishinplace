@@ -4,8 +4,6 @@ title: Home
 
 Flourish in Place, LLC provides professional and compassionate home helpers and companions who can:
 
-{{< youtube saO-M_73Fhc >}}
-
 * Foster a safe, healthy and clean home environment
 * Perform light housekeeping, such as tidying the home and doing laundry
 * Buy groceries and prepare and serve meals for clients, in keeping with any dietary restrictions
@@ -18,6 +16,8 @@ Flourish in Place, LLC provides professional and compassionate home helpers and 
 * Provide Alzheimer's and dementia care
 * Help clients with pet feeding and care
 * Provide “respite care” to relieve family caregivers 
+
+{{< wistia if40vf6igh >}}
 
 **Care Consultation** - We help families by taking time to understand their loved one's unique needs and then customize a care solution for their budget and care requirements. We understand home care services may not be the best option for some situations. We help evaluate each situation objectively and consult the family on all possible care options that would meet their needs. Options may include independent or assisted living facilities, board and care homes, or skilled nursing care. Call us today to schedule your free in-home care assessment or just talk to one of our certified senior care managers. Ask us about care funding options!
 
