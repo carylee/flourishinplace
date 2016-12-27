@@ -702,6 +702,10 @@ text-align:center;
   margin: 0;
 }
 
+#home-safety-assessment {
+  width: 100%;
+}
+
 #horizontal-menu a {
   font-size: 12px;
 }
@@ -716,4 +720,30 @@ text-align:center;
 
 .cycle-slideshow img.first {
   display: block;
+}
+
+.sidebar-videos {
+  margin-bottom: 10px;
+}
+
+.sidebar-videos h2 {
+  font-size: 12pt;
+}
+
+.sidebar-videos .wistia_embed {
+  width: 100%;
+  height: 140px;
+}
+
+/** Cary's media queries **/
+@media screen and (max-width: 992px) {
+  .sidebar-videos .wistia_embed {
+    height: 120px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar-videos .wistia_embed {
+    height: 240px;
+  }
 }
