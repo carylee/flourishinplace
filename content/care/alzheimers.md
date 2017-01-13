@@ -1,20 +1,38 @@
 ---
-title: Alzheimer's Care
+title: Veterans Services
 menu:
   main:
     parent: Care Options
+published: true
 ---
+## Did You or Your Spouse Serve Our Country?
 
-## What is Alzheimer's Care?
+VETERANS AID AND ATTENDANCE PENSION BENEFIT
 
-Over 4.5 million people in the United States and 26 million worldwide suffer from Alzheimer's disease. Alzheimer's disease is the most common type of dementia. The disease destroys brain cells and symptoms can include confusion, anger, mood swings, language breakdown and long-term memory loss. Caring for a person with Alzheimer's disease involves specialized services that differ from other types of senior housing.
+[Insert vimeo video link here]
 
-What is the best type of care for a loved one with the disease? Alzheimer's care is often delivered in an assisted living or nursing home setting usually in a separate floor or unit. Generally, the residents live in semi-private apartments and have structured activities delivered by staff members trained in Alzheimer's and dementia care. Most of these living environments have secured areas to prevent wandering, a common symptom of the disease. Often, residents have access to outdoor walking paths or gardens which are within secured areas.
+"Even though _one in three_ seniors might be eligible for the aid and attendance pension, very few people actually know about the VA Benefit!"
 
-Stand alone memory care communities called Alzheimer's special care units or memory care units also exist to better meet the specialized needs of residents with the disease. These memory care communities have been designed specifically for seniors suffering from Alzheimer's disease or dementia and often have features like a circular layout to ensure a resident won't encounter a 'dead-end' in a hallway (a potential source of stress for advanced cases of Alzheimer's).
+**Getting Help With Long Term Care Can Be One of the Greatest Crisis a Veteran Will Face**
 
-When making a decision, it is important to ask if there is specialized care offered for residents with Alzheimer's disease or other forms of dementia.
+All seniors, regardless of their current health, should plan for their old age--a time when many could use help to continue to thrive and _flourish_ while remaining in their chosen home environment.  Indeed, the need for long term care can be one of the greatest crises a veteran has faced since returning from war.  Without help, an older veteran (or the veteran's widow or widower) may lose their grasp on the _three most important lifestyle concerns_ in old age:
 
-* Also Known As: Memory Care; Dementia Care?
-* Payment Sources: Private Pay; Medicaid.
-* Price Range: $5000 to $9000 per month
+-Remaining independent
+-Having enough money
+-Maintaining good health
+
+These all disappear with the need for senior care, the cost of which can wipe out a lifetime of savings and destroy equity in a home.
+
+Most veterans are not aware of an important benefit available through the U.S.Government commonly known as the "Veterans Aid and Attendance Pension Benefit".  This VA benefit can provide _up to 25 hours per week_of personal home care services for veterans and their surviving spouses--for the rest of their lives!
+
+**How do I qualify for up to 25 hrs of free home care services per week?**
+
+Any veteran over age 65 who served honorably in the active military service during a period of war (or their surviving spouse regardless of age) should find out if they qualify. They need to meet certain asset and income requiremments and show that could benefit from assistance with activities of daily living.  
+
+_Flourish in Place Home Care Solutions_ can help determine if you qualify and get care started (as is required), while accredited VA agents guide you through the application process, all at _no cost whatsoever_ to you. 
+
+**Contact us today to get started!**
+
+
+
+
