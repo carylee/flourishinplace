@@ -2,28 +2,30 @@
 title: Veterans Services
 menu:
   main:
-    parent: Care Options
+    name: Veterans
 published: true
 ---
 ## Did You or Your Spouse Serve Our Country?
 
 VETERANS AID AND ATTENDANCE PENSION BENEFIT
 
-[Insert vimeo video link here]
-
 "Even though _one in three_ seniors might be eligible for the aid and attendance pension, very few people actually know about the VA Benefit!"
+
+{{< vimeo 189365842 >}}
+  
+<br>
 
 **Getting Help With Long Term Care Can Be One of the Greatest Crisis a Veteran Will Face**
 
 All seniors, regardless of their current health, should plan for their old age--a time when many could use help to continue to thrive and _flourish_ while remaining in their chosen home environment.  Indeed, the need for long term care can be one of the greatest crises a veteran has faced since returning from war.  Without help, an older veteran (or the veteran's widow or widower) may lose their grasp on the _three most important lifestyle concerns_ in old age:
 
--Remaining independent
--Having enough money
--Maintaining good health
+- Remaining independent
+- Having enough money
+- Maintaining good health
 
 These all disappear with the need for senior care, the cost of which can wipe out a lifetime of savings and destroy equity in a home.
 
-Most veterans are not aware of an important benefit available through the U.S.Government commonly known as the "Veterans Aid and Attendance Pension Benefit".  This VA benefit can provide _up to 25 hours per week_of personal home care services for veterans and their surviving spouses--for the rest of their lives!
+Most veterans are not aware of an important benefit available through the U.S.Government commonly known as the "Veterans Aid and Attendance Pension Benefit".  This VA benefit can provide _up to 25 hours per week_ of personal home care services for veterans and their surviving spouses--for the rest of their lives!
 
 **How do I qualify for up to 25 hrs of free home care services per week?**
 
