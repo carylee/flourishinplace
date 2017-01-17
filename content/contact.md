@@ -1,5 +1,6 @@
 ---
 title: Contact Us
+type: contact
 menu:
   main:
     weight: 500
@@ -14,10 +15,4 @@ Toll Free: (844) 822-1366
 Email: [info@flourishinplace.com](mailto:info@flourishinplace.com)  
 Website: [www.FlourishInPlace.com](http://www.flourishinplace.com)
 
-To have one of our representatives contact you to discuss our services please call us at the number above.
-
-![AHI Member Icon](/images/AHI-member-icon.jpg)
-
-* Bonded
-* Licensed
-* Insured
+To have one of our representatives contact you to discuss our services please call us at the number above or complete the form below.

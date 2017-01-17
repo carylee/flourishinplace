@@ -1,0 +1,15 @@
+{{ partial "header" . }}
+<div id="pagecontent" class="container">
+  <div id="page-wrapper" class="col-sm-12">
+    {{ partial "banner" . }}
+    <div id="main-article" class="clearfix">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+      <div class="jotform-contact">
+        <script type="text/javascript" src="https://form.jotform.com/jsform/70160834133144"></script>
+    </div>
+
+    <div class="col-sm-12 clearfix testi-bottom"></div>
+  </div>
+</div>
+{{ partial "footer" . }}
