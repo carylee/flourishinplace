@@ -15,7 +15,7 @@ VETERANS AID AND ATTENDANCE PENSION BENEFIT
   
 <br>
 
-**Getting Help With Long Term Care Can Be One of the Greatest Crisis a Veteran Will Face**
+**Getting Help With Long Term Care Can Be One of the Greatest Crises a Veteran Will Face**
 
 All seniors, regardless of their current health, should plan for their old age--a time when many could use help to continue to thrive and _flourish_ while remaining in their chosen home environment.  Indeed, the need for long term care can be one of the greatest crises a veteran has faced since returning from war.  Without help, an older veteran (or the veteran's widow or widower) may lose their grasp on the _three most important lifestyle concerns_ in old age:
 
@@ -29,12 +29,8 @@ Most veterans are not aware of an important benefit available through the U.S.Go
 
 **How do I qualify for up to 25 hrs of free home care services per week?**
 
-Any veteran over age 65 who served honorably in the active military service during a period of war (or their surviving spouse regardless of age) should find out if they qualify. They need to meet certain asset and income requiremments and show that could benefit from assistance with activities of daily living.  
+Any veteran over age 65 who served honorably in the active military service during a period of war (or their surviving spouse regardless of age) should find out if they qualify. They need to meet certain asset and income requiremments and show they could benefit from assistance with activities of daily living.  
 
 _Flourish in Place Home Care Solutions_ can help determine if you qualify and get care started (as is required), while accredited VA agents guide you through the application process, all at _no cost whatsoever_ to you. 
 
 **Contact us today to get started!**
-
-
-
-
