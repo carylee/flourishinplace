@@ -23,14 +23,21 @@
                     <li{{if $currentNode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.URL}}">{{ .Name }}</a></li>
                   {{ end }}
                 </ul>
+              </li>
             {{else}}
               <li class="{{if $currentNode.HasMenuCurrent "main" . }} active{{end}}">
                 <a href="{{.URL}}">
                   {{ .Pre }}
                   <span>{{ .Name }}</span>
                 </a>
+              </li>
             {{end}}
           {{end}}
+          <li>
+            <a href="https://flourishinplace.blogspot.com">
+              <span>Blog</span>
+            </a>
+          </li>
         </ul>
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->

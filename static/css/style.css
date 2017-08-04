@@ -178,6 +178,14 @@ border: 0 none;
 display:none;
 }
 
+
+.social-links img {
+  height: 25px;
+  width: 25px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
     background-color: #f0b13d;
     color: #fff;
@@ -748,6 +756,3 @@ text-align:center;
   }
 }
 
-#social i {
-  font-size: 150%;
-}
