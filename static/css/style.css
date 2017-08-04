@@ -747,3 +747,7 @@ text-align:center;
     height: 240px;
   }
 }
+
+#social i {
+  font-size: 150%;
+}
