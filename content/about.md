@@ -31,6 +31,11 @@ Three essential questions to ask - to ensure the company you choose has a strong
 
 ## Our Commitment
 
+We are committed to:
 
-
-
+-  recruiting, training and retaining competent staff and compensating them fairly
+-  valuing, supporting, recognizing and appreciating our staff who are our greatest asset
+-  providing a work environment that encourages personal enjoyment and enhances job satisfaction and performance through recognition and reward
+-  developing and maintaining positive relationships with the community, including local home care and health care organizations and their personnel
+-  conducting our business in a responsible and accountable manner
+-  adhering to the professional code of ethics of the home care industry and applying continuous quality improvement measures
