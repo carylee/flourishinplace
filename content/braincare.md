@@ -4,6 +4,7 @@ menu:
   main:
     weight: 400
     name: Brain Care
+published: true
 ---
 
 Background and Purpose
@@ -52,7 +53,7 @@ an individualized daily activities plan through:
 -   Reviewing records and consulting with multidisciplinary professional
     team
 
--   Performing cognitive assessment and quality-of-life assessment, and
+-   Performing an interests inventory and quality-of-life assessment, and
 
 -   Conducting in-depth interviews with client, care partners, other
     family members.
