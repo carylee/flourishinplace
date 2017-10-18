@@ -25,9 +25,9 @@ All seniors, regardless of their current health, should plan for their old age--
 
 These all disappear with the need for senior care, the cost of which can wipe out a lifetime of savings and destroy equity in a home.
 
-Most veterans are not aware of an important benefit available through the U.S.Government commonly known as the "Veterans Aid and Attendance Pension Benefit".  This VA benefit can provide _up to 25 hours per week_ of personal home care services for veterans and their surviving spouses--for the rest of their lives!
+Most veterans are not aware of an important benefit available through the U.S.Government commonly known as the "Veterans Aid and Attendance Pension Benefit".  This VA benefit can provide _up to $2700 per month_ that can be used for personal home care services for veterans and their surviving spouses--for the rest of their lives!
 
-**How do I qualify for up to 25 hrs of free home care services per week?**
+**How do I qualify for up to $2700 per month to help pay for personal home care services?**
 
 Any veteran over age 65 who served honorably in the active military service during a period of war (or their surviving spouse regardless of age) should find out if they qualify. They need to meet certain asset and income requiremments and show they could benefit from assistance with activities of daily living.  
 
