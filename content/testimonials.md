@@ -37,7 +37,7 @@ I am a current client of this provider. I&#39;m currently using Flourish In Plac
 and I&#39;ve never been happier! They go out of their way to do whatever is necessary to
 help you. They come 4 days a week for 3 hours each time. I have a heart condition
 among other things, so they take me to my doctor and get my medication. They put
-my feet up and help me with my compression socks., They do my shopping and
+my feet up and help me with my compression socks. They do my shopping and
 laundry for me, they cook for me and make sure I&#39;m eating. They help me with
 bathing and whatever else I may need. I really and truthfully could not be happier!
 <footer>With Love, Linda</footer>
