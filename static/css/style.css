@@ -743,6 +743,12 @@ text-align:center;
   height: 140px;
 }
 
+blockquote p {
+  font-size: 100% !important;
+  line-height: 25px !important;
+  text-align: left !important;
+}
+
 /** Cary's media queries **/
 @media screen and (max-width: 992px) {
   .sidebar-videos .wistia_embed {
